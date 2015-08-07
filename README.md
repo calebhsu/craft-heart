@@ -17,7 +17,6 @@ Parameterized Heart Model
 ```html
 <craft>
     <craft name="heart" module="craft-heart"/>
-    <row>
 </craft>
 ```
 
