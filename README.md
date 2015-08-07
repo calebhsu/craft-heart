@@ -5,7 +5,6 @@ Parameterized Heart Model
 ```html
 <craft>
     <craft name="heart" module="craft-heart"/>
-    <heart></heart>
 </craft>
 ```
 
@@ -17,6 +16,7 @@ Parameterized Heart Model
 ```html
 <craft>
     <craft name="heart" module="craft-heart"/>
+    <heart></heart>
 </craft>
 ```
 
